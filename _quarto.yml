@@ -1,0 +1,19 @@
+project:
+  type: default
+  render:
+    - index.qmd
+
+# Use the existing python3 kernel (the ipykernel from this project's uv environment).
+# Do not register a new kernel.
+jupyter: python3
+
+execute:
+  warning: false
+  freeze: false
+
+format:
+  html:
+    toc: true
+    code-fold: show
+    embed-resources: true
+    theme: cosmo

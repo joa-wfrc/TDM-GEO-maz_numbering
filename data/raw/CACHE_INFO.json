@@ -1,0 +1,10 @@
+{
+  "taz": {
+    "source": "https://services1.arcgis.com/taguadKoI1XFwivx/ArcGIS/rest/services/WasatchFrontTAZ/FeatureServer/0",
+    "downloaded": "2026-11-19"
+  },
+  "maz": {
+    "source": "D:\\ABM-INP-Microzones\\Scripts\\Scratch\\Microzones_Cleaner\\Microzones_Cleaner.gdb\\_18_maz_spatially_sorted",
+    "downloaded": "2026-11-19"
+  }
+}
